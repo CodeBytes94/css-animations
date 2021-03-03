@@ -3,7 +3,7 @@ You can find all the code from our CSS animation series here!
 
 | Lesson | Description | Link
 | :---: | ----- | --- |
-| 01 | Drink Animation | [View Code]
+| 01 | Drink Animation | [View Code](https://github.com/CodeBytes94/css-animations/tree/main/preloaders/drink-animation)
 
 For full tutorials visit our webpage or YouTube channel!
 - Website: https://codebytesized.com/
