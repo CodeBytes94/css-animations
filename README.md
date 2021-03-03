@@ -3,7 +3,7 @@ You can find all the code from our Learn CSS series here!
 
 | Lesson | Description | Link
 | :---: | ----- | --- |
-| 01 | Introduction to CSS | [View Code](https://github.com/CodeBytes94/learn-css/blob/main/the-fundamentals/introduction-to-css/introduction-to-css.html)
+| 01 | Drink Animation | [View Code]
 
 For full tutorials visit our webpage or YouTube channel!
 - Website: https://codebytesized.com/
