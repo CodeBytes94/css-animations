@@ -1,5 +1,5 @@
-# Learn CSS with CodeBytes
-You can find all the code from our Learn CSS series here!
+# CSS Animations with CodeBytes
+You can find all the code from our CSS animation series here!
 
 | Lesson | Description | Link
 | :---: | ----- | --- |
