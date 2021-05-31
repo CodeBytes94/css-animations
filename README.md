@@ -6,7 +6,7 @@ You can find all the code from our CSS animation series here!
 | 01 | Drink Animation | [View Code](https://github.com/CodeBytes94/css-animations/tree/main/preloaders/drink-animation)
 
 For full tutorials visit our webpage or YouTube channel!
-- Website: https://codebytesized.com/
+- Website: https://codebytes.blog/
 - YouTube: https://www.youtube.com/playlist?list=PLvvVSYZ1bhvJn2t6JkQl0W4ocyO23RDIC
 
 Follow us for more web development inspiration!
