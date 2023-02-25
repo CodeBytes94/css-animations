@@ -7,8 +7,7 @@ You can find all the code from our CSS animation series here!
 | 02 | Animated Heart |[View Code](https://github.com/CodeBytes94/css-animations/tree/main/shapes/heart)
 | 03 | Charging Battery | [View Code](https://github.com/CodeBytes94/css-animations/tree/main/preloaders/charging-battery)
 
-For full tutorials visit our webpage or YouTube channel!
-- Website: https://codebytes.blog/
+For full tutorials visit our YouTube channel!
 - YouTube: https://www.youtube.com/playlist?list=PLvvVSYZ1bhvJn2t6JkQl0W4ocyO23RDIC
 
 Follow us for more web development inspiration!
