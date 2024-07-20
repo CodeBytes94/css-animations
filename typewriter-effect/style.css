@@ -37,7 +37,7 @@ body {
 @keyframes blinking {
     from {border-color: transparent;}
     50% {border-color: var(--main-blue);}
-    to {border-colour: transparent;}
+    to {border-color: transparent;}
 }
 
 @keyframes typing {
